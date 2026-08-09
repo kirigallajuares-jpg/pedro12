@@ -1,0 +1,15 @@
+img {
+    max-width: 30%;
+    height: auto;
+}
+
+img {
+    width: 30px;
+    height: 90px;
+}
+
+img {
+    width: 30%;
+    height: 30vh;
+    object-fit: cover;
+}
