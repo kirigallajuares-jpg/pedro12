@@ -125,4 +125,10 @@ li:hover:nth-child(3) a::after {
     transition: .5s;
     padding-right: 14px;
 }
+body{
+    background-image: url("pantalla.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
 
