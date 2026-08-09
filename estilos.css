@@ -4,7 +4,12 @@ body {
     margin: 0;
 }
 
-header,
+header, footer {
+    /* background: #003366; */
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+}
 footer {
     color: #f0eaea;
     padding: 15px;
