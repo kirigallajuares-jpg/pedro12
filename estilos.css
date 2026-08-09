@@ -30,3 +30,23 @@ main {
     justify-content: center;
     margin: auto;
 }
+
+h1 {
+    text-align: center;
+    color: #05056ea7;
+}
+
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 20px;
+}
